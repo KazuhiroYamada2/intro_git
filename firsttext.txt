@@ -1,2 +1,4 @@
 ﻿gitはじめて
 おべんきょう
+/git add
+/git commit
